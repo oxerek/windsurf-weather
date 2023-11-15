@@ -78,5 +78,3 @@ To add or remove spots locations please edit *spot-locations.csv* file and then 
 6. It has a gradle or maven building mechanism and a README file describing at least the procedure for building and running the application.
 
 7. Exceptional scenarios or requirements not specified above should be handled at your discretion.
-
-8. Store your application code in a private BitBucket repo and share it with sonalake.recruitment@sonalake.com
